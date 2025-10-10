@@ -2,9 +2,9 @@
 
 Collection of Data Science Collaborative Workshop Notes, Code, and Datasets
 
-Languages used:
+Languages used: <br/>
 ~ Python
 
-Analysis & Visualization Tools:
+Analysis & Visualization Tools: <br/>
 ~ Google Collaborative
 
