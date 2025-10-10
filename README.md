@@ -6,5 +6,6 @@ Languages used: <br/>
 ~ Python
 
 Analysis & Visualization Tools: <br/>
-~ Google Collaborative
+~ Google Colaboratory
+~ Kaggle
 
