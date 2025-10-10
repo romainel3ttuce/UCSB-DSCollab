@@ -1,7 +1,7 @@
 # UCSB-DSCollab
 Introduction to Python and Data for beginners
 
-First workshop meeting for Data Science Collaborative Club. 
+###First workshop meeting for Data Science Collaborative Club. 
 
 ~ Worked on importing data from Kaggle
 ~ Organized the dataset originally from the National Institute of Diabetes and Digestive and Kidney Disease into a clear, comprehensible data table
